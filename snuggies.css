@@ -1,0 +1,93 @@
+body,h1 {font-family: "Raleway", sans-serif}
+@media screen and (max-width: 600px) {
+	.w3-display-bottomleft {
+		visibility: hidden;
+	}
+	.w3-display-middle {
+		top: 35%;
+	}
+	div.w3-spain-locale {
+		position: inherit;
+		float: right;
+	}
+}
+body, html {height: 100%}
+.w3-avatar {
+	width: 25vh;
+	height: auto;
+}
+.bgimg {
+      background-color: #262525;
+      min-height: 100%;
+      background-position: center;
+      background-size: cover;
+}
+.w3-idk-words {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     opacity: 0.5;
+}
+.w3-attribution {
+     text-decoration: none;
+}
+.w3-attribution:hover {
+    text-decoration: underline;
+}
+.w3-jumbo {
+	font-size: 6vh !important;
+}
+.w3-large {
+	font-size: 2vh !important;
+}
+.w3-display-topleft {
+	font-size: 2vh !important;
+}
+.w3-display-bottomleft {
+	font-size: 1.5vh !important;
+    opacity: 0.1;
+}
+.w3-spain-locale {
+    position: fixed;
+    right: 1%;
+    bottom: 1%;
+    font-size: 3vh;
+    opacity: 0.5;
+    text-align: center;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
