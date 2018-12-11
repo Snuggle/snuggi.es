@@ -1,2 +1,2 @@
 # snuggi.es
-This is the Git repository for https://snuggi.es
+My personal website's code lives here. It sometimes bites, beware.
