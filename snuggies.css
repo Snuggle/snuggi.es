@@ -11,6 +11,10 @@ body,h1 {font-family: "Raleway", sans-serif}
 		float: right;
 	}
 }
+svg {
+  width: 2vh;
+  height: 2vh;
+}
 body, html {height: 100%}
 .w3-avatar {
 	width: 25vh;
