@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/snuggle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://snugg.ie
+  * I am snuggle (https://keybase.io/snuggle) on keybase.
+  * I have a public key ASA7gjfSCzUGVKaUw7ebON8bc0ZiJztwEmz4kOQ_n_tfSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a64c0177a669c8239a0ffeb23ced538a647738183f6d903ce4eda045132d1f140a",
+      "host": "keybase.io",
+      "kid": "01203b8237d20b350654a694c3b79b38df1b734662273b70126cf890e43f9ffb5f4a0a",
+      "uid": "3fa0eaf00fd29b97102652d9b9500219",
+      "username": "snuggle"
+    },
+    "merkle_root": {
+      "ctime": 1563275658,
+      "hash": "54bdeaf3365c30e10ffee5fbd0fe5aa2eb622abba8e803c197ebc0160aa39f86d361c4690e5427066ba32fa50a4d2a2da268d40de03197929d03716d82c54e4e",
+      "hash_meta": "373dab5951d4e1dc9dd9d7bfd9621e30138f83d9ce670c3b2c90a04cf106230e",
+      "seqno": 5773241
+    },
+    "service": {
+      "entropy": "SgkZhVGVUJ9OjmdOazWmhCDE",
+      "hostname": "snugg.ie",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563275718,
+  "expire_in": 504576000,
+  "prev": "68952531449e6e551f2d0c7941a9c88f8d4656923d4a1ccf087692bd457657df",
+  "seqno": 87,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgO4I30gs1BlSmlMO3mzjfG3NGYic7cBJs+JDkP5/7X0oKp3BheWxvYWTESpcCV8QgaJUlMUSeblUfLQx5QanIj41GVpI9ShzPCHaSvUV2V9/EICQY2/Nw0uEBOKOhbI0UUOca0BM/BvgAWaKy8uEJYLagAgHCo3NpZ8RAnqZ8d1KXILHpfeipSFtTZ0EAIBSpcYsoUV2Qj5fRFTsY1+38wcWvK2ejiP662X7bCXj9dYfRwfdlkHvcYVTKAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBNLAw5e1EdLAMSwaLrtjJzWFp+9+pX6h9WMYGsi/zBSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/snuggle
+
+==================================================================
