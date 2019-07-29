@@ -39,6 +39,17 @@ body, html {height: 100%}
 .w3-attribution:hover {
     text-decoration: underline;
 }
+.snuggle-attribution {
+     text-decoration: underline;
+		 text-decoration-color: rgba(255, 255, 2555, 0.3);
+}
+.snuggle-attribution:hover {
+    text-decoration: underline;
+		text-decoration-color: rgba(255, 255, 2555, 1.0);
+}
+.snuggle-invisible {
+     text-decoration: none;
+}
 .w3-jumbo {
 	font-size: 6vh !important;
 }
