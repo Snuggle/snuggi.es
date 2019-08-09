@@ -12,8 +12,8 @@ body,h1 {font-family: "Raleway", sans-serif}
 	}
 }
 svg {
-  width: 2vh;
-  height: 2vh;
+	width: 2vh;
+	height: 2vh;
 }
 body, html {height: 100%}
 .w3-avatar {
@@ -21,34 +21,34 @@ body, html {height: 100%}
 	height: auto;
 }
 .bgimg {
-      background-color: #262525;
-      min-height: 100%;
-      background-position: center;
-      background-size: cover;
+	background-color: #262525;
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
 }
 .w3-idk-words {
-     position: fixed;
-     bottom: 0;
-     width: 100%;
-     text-align: center;
-     opacity: 0.5;
+	 position: fixed;
+	 bottom: 0;
+	 width: 100%;
+	 text-align: center;
+	 opacity: 0.5;
 }
 .w3-attribution {
-     text-decoration: none;
+		 text-decoration: none;
 }
 .w3-attribution:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 .snuggle-attribution {
-     text-decoration: underline;
-		 text-decoration-color: rgba(255, 255, 2555, 0.3);
+	 text-decoration: underline;
+	 text-decoration-color: rgba(255, 255, 2555, 0.3);
 }
 .snuggle-attribution:hover {
-    text-decoration: underline;
-		text-decoration-color: rgba(255, 255, 2555, 1.0);
+	text-decoration: underline;
+	text-decoration-color: rgba(255, 255, 2555, 1.0);
 }
 .snuggle-invisible {
-     text-decoration: none;
+	 text-decoration: none;
 }
 .w3-jumbo {
 	font-size: 6vh !important;
@@ -61,15 +61,15 @@ body, html {height: 100%}
 }
 .w3-display-bottomleft {
 	font-size: 1.5vh !important;
-    opacity: 0.1;
+	opacity: 0.1;
 }
 .w3-spain-locale {
-    position: fixed;
-    right: 1%;
-    bottom: 1%;
-    font-size: 3vh;
-    opacity: 0.5;
-    text-align: center;
+	position: fixed;
+	right: 1%;
+	bottom: 1%;
+	font-size: 3vh;
+	opacity: 0.5;
+	text-align: center;
 }
 
 /* Tooltip container */
