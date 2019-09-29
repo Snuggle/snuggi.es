@@ -19,6 +19,7 @@ body, html {height: 100%}
 .w3-avatar {
 	width: 25vh;
 	height: auto;
+	border-radius: 10%;
 }
 .bgimg {
 	background-color: #262525;
